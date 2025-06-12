@@ -153,4 +153,4 @@ This project is open source and available under the MIT License.
 
 ---
 
-**Happy movie watching!** This system will help you discover your next favorite film based on your preferences and viewing history.
+**Enjoy the movie!** This system will help you discover your next favorite film based on your preferences and viewing history.
